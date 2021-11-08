@@ -4,6 +4,7 @@ Final design was targeted to the Xilinx Basys 3 board.
 
 Schematics of final design:
 
-https://github.com/michael-cummins/mini-ALU/blob/main/images/ALU%20schematic.png
 
-https://github.com/michael-cummins/mini-ALU/blob/main/images/chematic_expand_isolate.png
+![Schematic]https://github.com/michael-cummins/mini-ALU/blob/main/images/ALU%20schematic.png
+
+![Expanded Schematic]https://github.com/michael-cummins/mini-ALU/blob/main/images/chematic_expand_isolate.png
